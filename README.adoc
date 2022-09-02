@@ -10,7 +10,7 @@ Protocol decoder for Jeti EX sensor data output .
    
 == License ==
 
- Copyright (C) 2012 by Bernd Wokoeck
+ Copyright (C) 2022 by Bernd Wokoeck
 
   Permission is hereby granted, free of charge, to any person obtaining
   a copy of this software and associated documentation files (the "Software"),
